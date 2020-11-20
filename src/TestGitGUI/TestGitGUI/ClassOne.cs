@@ -14,6 +14,8 @@ namespace TestGitGUI
 
       sInfo += "Other PC change";
 
+      sInfo += "Zmena 1 main pc";
+
       return "ClassOne version: " + sInfo; 
     }
   }
