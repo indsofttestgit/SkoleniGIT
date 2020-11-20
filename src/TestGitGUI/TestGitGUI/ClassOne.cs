@@ -10,7 +10,7 @@ namespace TestGitGUI
   {
     public static string GetMyVersion()
     {
-      string sInfo = "Prvni verze";
+      string sInfo = "Prvni verze + checkInFrom VS2019";
 
       return "ClassOne version: " + sInfo; 
     }
