@@ -12,6 +12,8 @@ namespace TestGitGUI
     {
       string sInfo = "Prvni verze + checkInFrom VS2019";
 
+      sInfo += "Other PC change";
+
       return "ClassOne version: " + sInfo; 
     }
   }
